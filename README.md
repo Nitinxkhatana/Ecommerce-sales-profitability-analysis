@@ -43,3 +43,7 @@ Power BI dashboard development and final documentation are currently in progress
 Objective
 
 To demonstrate practical data analytics skills through data cleaning, SQL querying, exploratory analysis, business insights, and data visualization.
+
+
+#Dashboard preview -
+Interactive Power Bi dashboard will be added once finalised.
